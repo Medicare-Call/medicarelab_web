@@ -21,7 +21,7 @@ const supports = [
     featured: true,
   },
   { title: "2025 건국대학교 예비창업패키지 사전인큐베이팅 수료", icon: Rocket },
-  { title: "실감미디어 혁신융합대학 사업단 창업동아리 지원사업 [300만원]", icon: Sparkles },
+  { title: "실감미디어 혁신융합대학 사업단 창업동아리 지원사업", icon: Sparkles },
   { title: "KU창업클럽 3기 / 4기 학생창업팀", icon: Star },
 ];
 
