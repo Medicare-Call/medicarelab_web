@@ -68,7 +68,7 @@ export function Navigation() {
           <a
             href="#contact"
             onClick={(e) => scrollTo(e, "#contact")}
-            className="bg-[#00b859] text-white px-5 py-2 rounded-[8px] font-[600] hover:bg-[#00a350] transition-all text-[14px] shadow-sm hover:shadow-md"
+            className="hidden md:inline-flex bg-[#00b859] text-white px-5 py-2 rounded-[8px] font-[600] hover:bg-[#00a350] transition-all text-[14px] shadow-sm hover:shadow-md"
           >
             도입 문의
           </a>
