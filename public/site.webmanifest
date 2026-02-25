@@ -1,0 +1,19 @@
+{
+  "name": "메디케어랩",
+  "short_name": "메디케어랩",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#00b859",
+  "background_color": "#00b859",
+  "display": "standalone"
+}
